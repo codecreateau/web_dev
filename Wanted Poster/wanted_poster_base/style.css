@@ -1,0 +1,29 @@
+div {
+	text-align: center;
+	overflow: hidden;
+	border: 5px solid black;
+	width: 500px;
+	background: AliceBlue;
+	padding: 15px;
+}
+
+img {
+	width: 300px;
+}
+
+h1 {
+	font-family: Arial Black;
+	font-size: 30pt; 
+}
+
+h2 {
+	font-family: Arial Black;
+}
+
+h3 {
+	font-family: Arial Black;
+}
+
+h4 {
+	font-family: Arial Black;
+}
